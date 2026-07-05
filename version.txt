@@ -1,0 +1,22 @@
+# SULZ TRADING HUB 8.4 - version.txt
+# Formato:
+# Nome=Versao|Arquivo.ex5|LinkDiretoGoogleDrive|Categoria
+#
+# IMPORTANTE:
+# - O link deve ser publico: qualquer pessoa com o link pode visualizar.
+# - Teste em janela anonima. Se pedir login, o MT5 tambem nao conseguira baixar.
+# - Link direto Google Drive:
+#   https://drive.google.com/uc?export=download&id=ID_DO_ARQUIVO
+
+
+
+SULZ Control Center=8.40|SULZ_Control_Center_1.0|https://drive.google.com/uc?export=download&id=1DQ4k33dNeUr6p0lrox1tLbFZMJ6-K9i8|Sistema obrigatório
+Giroflex 180=1.01|Giroflex180_1.0.ex5|https://drive.google.com/uc?export=download&id=1IMGiEaaCa-apDQXyc5VdYd3lhMKz271w|Robô operacional
+Giroflex 180 i=1.00|Giroflex180_i_1.0.ex5|https://drive.google.com/uc?export=download&id=1-cq6-s8GIsoXEbo1FwMPMuqVwvRzfFTs|Robô operacional
+Giroflex 360=1.00|Giroflex360_1.0.ex5|https://drive.google.com/uc?export=download&id=1tfcQJxY-m5SlDhf0GmiYPvWXyVQjKVsd|Robô operacional
+Ronaldinho=1.00|Ronaldinho_1.0.ex5|https://drive.google.com/uc?export=download&id=1us5XV75-pr8rmthQQ30r58yBn8x29-bw|Robô operacional
+R9=1.00|R9_1.0.ex5|https://drive.google.com/uc?export=download&id=1oRJ9VSbHAYlHcFVeIci9KvUU7zVhEsio|Robô operacional
+Exaustao=1.00|Exaustao_1.0.ex5|https://drive.google.com/uc?export=download&id=1VL0aEtuKpp6hcMp3Ld8MZa83a27tdvP3|Robô operacional
+Turnover=1.00|Turnover_1.0.ex5|https://drive.google.com/uc?export=download&id=1WMxX1JXTAHkGYSk3ATbZ3SPsjfu1hxLV|Robô operacional
+CAC=1.00|CAC_1.0.ex5|https://drive.google.com/uc?export=download&id=1Mwf8gGfx1zo027VzFL8_cZx6NfyQwtsH|Robô operacional
+FVG=1.00|FVG_1.0.ex5|https://drive.google.com/uc?export=download&id=1xWpk_SGl24UjBvtzTXORTgnQdn1k2q-8|Robô operacional
