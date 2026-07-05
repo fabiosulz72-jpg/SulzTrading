@@ -1,16 +1,20 @@
-# SULZ TRADING HUB 8.4 - version.txt
+# SULZ TRADING HUB 8.4.1 - version.txt
+# Hospede este arquivo no GitHub e use o link RAW no input CCU_URL_VersionTxt.
+#
+# Exemplo de link RAW:
+# https://raw.githubusercontent.com/SEU_USUARIO/SulzTrading/main/version.txt
+#
+# No MT5, liberar em:
+# Ferramentas > Opções > Expert Advisors > Permitir WebRequest:
+# https://raw.githubusercontent.com
+# https://drive.google.com
+#
 # Formato:
 # Nome=Versao|Arquivo.ex5|LinkDiretoGoogleDrive|Categoria
-#
-# IMPORTANTE:
-# - O link deve ser publico: qualquer pessoa com o link pode visualizar.
-# - Teste em janela anonima. Se pedir login, o MT5 tambem nao conseguira baixar.
-# - Link direto Google Drive:
-#   https://drive.google.com/uc?export=download&id=ID_DO_ARQUIVO
 
 
 
-SULZ Control Center=8.40|SULZ_Control_Center_1.0|https://drive.google.com/uc?export=download&id=1DQ4k33dNeUr6p0lrox1tLbFZMJ6-K9i8|Sistema obrigatório
+SULZ Control Center=8.41|SULZ_Control_Center_1.0|https://drive.google.com/uc?export=download&id=1DQ4k33dNeUr6p0lrox1tLbFZMJ6-K9i8|Sistema obrigatório
 Giroflex 180=1.01|Giroflex180_1.0.ex5|https://drive.google.com/uc?export=download&id=1IMGiEaaCa-apDQXyc5VdYd3lhMKz271w|Robô operacional
 Giroflex 180 i=1.00|Giroflex180_i_1.0.ex5|https://drive.google.com/uc?export=download&id=1-cq6-s8GIsoXEbo1FwMPMuqVwvRzfFTs|Robô operacional
 Giroflex 360=1.00|Giroflex360_1.0.ex5|https://drive.google.com/uc?export=download&id=1tfcQJxY-m5SlDhf0GmiYPvWXyVQjKVsd|Robô operacional
